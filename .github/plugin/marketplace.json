@@ -36,5 +36,15 @@
         "./skills/plugin-test"
       ]
     }
+    ,
+    {
+      "name": "test-sample",
+      "source": "./plugins/test-sample",
+      "description": "Small test-sample plugin for verification.",
+      "version": "0.1.0",
+      "skills": [
+        "./skills/test-skill"
+      ]
+    }
   ]
 }
