@@ -1,5 +1,5 @@
 ---
-name: plugin-tesst
+name: plugin-test
 description: Hello world em 3 linguas pt, en , fr.
 ---
 

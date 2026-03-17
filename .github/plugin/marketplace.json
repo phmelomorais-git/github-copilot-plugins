@@ -28,12 +28,12 @@
       ]
     },
     {
-      "name": "tesst",
-      "source": "./plugins/test",
+      "name": "plugin-test",
+      "source": "./plugins/plugin-test",
       "description": "Test plugin for GitHub Copilot.",
       "version": "1.0.0",
       "skills": [
-        "./skills/test"
+        "./skills/plugin-test"
       ]
     }
   ]
