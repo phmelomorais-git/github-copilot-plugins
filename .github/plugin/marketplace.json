@@ -12,7 +12,7 @@
     {
       "name": "workiqAlterado",
       "source": "./plugins/workiq",
-      "description": "WorkIQ plugin for GitHub Copilot.",
+      "description": "Nem a descrição muda?.",
       "version": "1.0.0",
       "skills": [
         "./skills/workiq"
