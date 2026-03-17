@@ -33,7 +33,7 @@
       "description": "Test plugin for GitHub Copilot.",
       "version": "1.0.0",
       "skills": [
-        "./skills/plugin-tesst"
+        "./skills/test"
       ]
     }
   ]
