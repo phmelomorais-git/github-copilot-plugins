@@ -28,15 +28,6 @@
       ]
     },
     {
-      "name": "sparktacus",
-      "source": "./plugins/sparktacus",
-      "description": "Sparktacus plugin for GitHub Copilot.",
-      "version": "1.0.0",
-      "skills": [
-        "./skills/sparktacus"
-      ]
-    },
-    {
       "name": "plugin-test",
       "source": "./plugins/plugin-test",
       "description": "Test plugin for GitHub Copilot.",
