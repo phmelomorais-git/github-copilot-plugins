@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "workiq",
+      "name": "workiqAlterado",
       "source": "./plugins/workiq",
       "description": "WorkIQ plugin for GitHub Copilot.",
       "version": "1.0.0",
