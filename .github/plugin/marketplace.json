@@ -26,6 +26,15 @@
       "skills": [
         "./skills/spark"
       ]
+    },
+    {
+      "name": "tesst",
+      "source": "./plugins/test",
+      "description": "Test plugin for GitHub Copilot.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/plugin-tesst"
+      ]
     }
   ]
 }
