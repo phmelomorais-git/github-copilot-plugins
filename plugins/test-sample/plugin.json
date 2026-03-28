@@ -1,0 +1,22 @@
+{
+  "name": "test-sample",
+  "displayName": "Test Sample Plugins",
+  "version": "0.1.0",
+  "description": "Plugin metadata for test-sample collection.",
+  "author": "github/copilot-plugins",
+  "readme": "README.md",
+  "skills": [
+    {
+      "id": "findfast",
+      "path": "skills/findfast/SKILL.md"
+    },
+    {
+      "id": "peignant",
+      "path": "skills/peignant/SKILL.md"
+    },
+    {
+      "id": "test-skill",
+      "path": "skills/test-skill/SKILL.md"
+    }
+  ]
+}

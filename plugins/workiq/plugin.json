@@ -1,0 +1,14 @@
+{
+  "name": "workiq",
+  "displayName": "WorkIQ",
+  "version": "0.1.0",
+  "description": "Plugin metadata for the WorkIQ plugin.",
+  "author": "github/copilot-plugins",
+  "readme": "README.md",
+  "skills": [
+    {
+      "id": "workiq",
+      "path": "skills/workiq/SKILL.md"
+    }
+  ]
+}

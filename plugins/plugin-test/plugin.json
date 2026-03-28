@@ -1,0 +1,14 @@
+{
+  "name": "plugin-test",
+  "displayName": "Plugin Test",
+  "version": "0.1.0",
+  "description": "Plugin metadata for the plugin-test sample.",
+  "author": "github/copilot-plugins",
+  "readme": "README.md",
+  "skills": [
+    {
+      "id": "plugin-test",
+      "path": "skills/plugin-test/SKILL.md"
+    }
+  ]
+}
