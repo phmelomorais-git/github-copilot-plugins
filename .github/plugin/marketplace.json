@@ -24,7 +24,7 @@
       "description": "Spark plugin for GitHub Copilot.",
       "version": "1.0.0",
       "skills": [
-        "./skills/spark"
+        "./skills/spark-app-template"
       ]
     },
     {
